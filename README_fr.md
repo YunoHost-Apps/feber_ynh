@@ -25,7 +25,7 @@ Ceci est une fausse description des fonctionalités de l'app
 
 ## Captures d’écran
 
-![Capture d’écran de Feber](./doc/screenshots/readme.png)
+![Capture d’écran de Feber](./doc/screenshots/screenshot.png)
 
 ## Documentations et ressources
 

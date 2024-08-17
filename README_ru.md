@@ -36,7 +36,7 @@
 
 ## Снимки экрана
 
-![Снимок экрана Feber](./doc/screenshots/readme.png)
+![Снимок экрана Feber](./doc/screenshots/screenshot.png)
 
 ## Документация и ресурсы
 

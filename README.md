@@ -36,7 +36,7 @@ It shall NOT be edited by hand.
 
 ## Screenshots
 
-![Screenshot of Feber](./doc/screenshots/readme.png)
+![Screenshot of Feber](./doc/screenshots/screenshot.png)
 
 ## Documentation and resources
 
