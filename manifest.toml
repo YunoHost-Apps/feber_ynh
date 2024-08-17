@@ -19,7 +19,7 @@ code = "https://codeberg.org/simonrepp/feber"
 fund = "https://ko-fi.com/simonrepp"
 
 [integration]
-yunohost = ">= 11.2.18"
+yunohost = ">= 11.2.27"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
