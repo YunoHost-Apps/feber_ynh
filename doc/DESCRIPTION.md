@@ -9,4 +9,3 @@ Feber is a simple, self-hostable group calendar.
 - ics/ical subscription link option
 - Automatic dark/light theme
 - Customize calendar title and start of week (Monday/Sunday)
-
