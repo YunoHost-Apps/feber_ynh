@@ -58,5 +58,5 @@ ram.runtime = "50M"
     [resources.permissions]
     main.url = "/"
 
-    #[resources.apt]
-    #packages = "php8.3-fpm"
+    [resources.apt]
+    packages = "php8.3-fpm"
