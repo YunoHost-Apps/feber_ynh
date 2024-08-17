@@ -16,6 +16,8 @@
 
 ## Обзор
 
+Feber is a simple, self-hostable group calendar.
+
 ### Features
 
 - File-based and database-free - trivial to setup, backup and transfer
@@ -33,7 +35,7 @@
 
 ## Снимки экрана
 
-![Снимок экрана Feber](./doc/screenshots/readme.png)
+![Снимок экрана Feber](./doc/screenshots/screenshot.png)
 
 ## Документация и ресурсы
 

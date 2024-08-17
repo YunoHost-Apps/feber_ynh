@@ -16,6 +16,8 @@
 
 ## 概况
 
+Feber is a simple, self-hostable group calendar.
+
 ### Features
 
 - File-based and database-free - trivial to setup, backup and transfer
@@ -33,7 +35,7 @@
 
 ## 截图
 
-![Feber 的截图](./doc/screenshots/readme.png)
+![Feber 的截图](./doc/screenshots/screenshot.png)
 
 ## 文档与资源
 

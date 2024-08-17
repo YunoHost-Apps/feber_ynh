@@ -16,6 +16,8 @@ Ini TIDAK boleh diedit dengan tangan.
 
 ## Ringkasan
 
+Feber is a simple, self-hostable group calendar.
+
 ### Features
 
 - File-based and database-free - trivial to setup, backup and transfer
@@ -33,7 +35,7 @@ Ini TIDAK boleh diedit dengan tangan.
 
 ## Tangkapan Layar
 
-![Tangkapan Layar pada Feber](./doc/screenshots/readme.png)
+![Tangkapan Layar pada Feber](./doc/screenshots/screenshot.png)
 
 ## Dokumentasi dan sumber daya
 
