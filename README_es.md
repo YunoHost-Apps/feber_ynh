@@ -36,7 +36,7 @@ No se debe editar a mano.
 
 ## Capturas
 
-![Captura de Feber](./doc/screenshots/readme.png)
+![Captura de Feber](./doc/screenshots/screenshot.png)
 
 ## Documentaciones y recursos
 

@@ -36,7 +36,7 @@ Ini TIDAK boleh diedit dengan tangan.
 
 ## Tangkapan Layar
 
-![Tangkapan Layar pada Feber](./doc/screenshots/readme.png)
+![Tangkapan Layar pada Feber](./doc/screenshots/screenshot.png)
 
 ## Dokumentasi dan sumber daya
 

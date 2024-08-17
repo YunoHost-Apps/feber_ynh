@@ -36,7 +36,7 @@ EZ editatu eskuz.
 
 ## Pantaila-argazkiak
 
-![Feber(r)en pantaila-argazkia](./doc/screenshots/readme.png)
+![Feber(r)en pantaila-argazkia](./doc/screenshots/screenshot.png)
 
 ## Dokumentazioa eta baliabideak
 
