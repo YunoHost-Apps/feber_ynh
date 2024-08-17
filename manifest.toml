@@ -5,7 +5,7 @@ packaging_format = 2
 id = "feber"
 name = "Feber"
 description.en = "Self-hostable group calendar"
-description.fr = "calendrier de groupe simple et auto-hébergé"
+description.fr = "Calendrier de groupe simple et auto-hébergé"
 
 version = "1.1.1~ynh1"
 
