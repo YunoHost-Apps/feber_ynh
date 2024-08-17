@@ -50,6 +50,7 @@ ram.runtime = "50M"
     [resources.sources.main]
     url = "https://simonrepp.com/feber/releases/feber-1.1.1.zip"
     sha256 = "4cb9c0870b59bb0fd644ce6307b5139b8cb6ed07da6cad1e707a7b8a9b34cea4"
+    in_subdir = false
 
     [resources.system_user]
 
