@@ -5,7 +5,7 @@ packaging_format = 2
 id = "feber"
 name = "Feber"
 description.en = "Self-hostable group calendar"
-description.fr = "calendrier de groupe simple et auto-hébergé"
+description.fr = "Calendrier de groupe simple et auto-hébergé"
 
 version = "1.1.1~ynh1"
 
@@ -20,6 +20,7 @@ fund = "https://ko-fi.com/simonrepp"
 
 [integration]
 yunohost = ">= 11.2.27"
+helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
 ldap = false
@@ -53,6 +54,7 @@ ram.runtime = "50M"
     [resources.system_user]
 
     [resources.install_dir]
+    group = "www-data:r-x"
 
     [resources.permissions]
     main.url = "/"
