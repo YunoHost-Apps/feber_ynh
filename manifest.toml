@@ -51,7 +51,7 @@ ram.runtime = "50M"
     sha256 = "274033f95d86cd7da566f2f0aa7e948d91a3afbc2ef481f882b03e504ad8833b"
     in_subdir = false
 
-    autoupdate.strategy = "forgejo_latest_tag"
+    autoupdate.strategy = "latest_forgejo_tag"
 
     [resources.system_user]
 
