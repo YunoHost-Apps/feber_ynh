@@ -12,7 +12,7 @@ source /usr/share/yunohost/helpers
 #=================================================
 ynh_script_progression "Upgrading source files..."
 
-ynh_setup_source --dest_dir="$install_dir" --keep="settings.php" --full_replace
+ynh_setup_source --dest_dir="$install_dir" --keep="settings.php events.php markers.php" --full_replace
 
 #=================================================
 # REAPPLY SYSTEM CONFIGURATIONS
