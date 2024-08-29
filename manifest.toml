@@ -7,7 +7,7 @@ name = "Feber"
 description.en = "Self-hostable group calendar"
 description.fr = "Calendrier de groupe simple et auto-hébergé"
 
-version = "1.1.1~ynh1"
+version = "1.1.2~ynh1"
 
 maintainers = []
 
@@ -47,9 +47,11 @@ ram.runtime = "50M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://simonrepp.com/feber/releases/feber-1.1.1.zip"
-    sha256 = "4cb9c0870b59bb0fd644ce6307b5139b8cb6ed07da6cad1e707a7b8a9b34cea4"
+    url = "https://codeberg.org/simonrepp/feber/archive/1.1.2.tar.gz"
+    sha256 = "274033f95d86cd7da566f2f0aa7e948d91a3afbc2ef481f882b03e504ad8833b"
     in_subdir = false
+
+    autoupdate.strategy = "forgejo_latest_tag"
 
     [resources.system_user]
 
@@ -60,4 +62,4 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.apt]
-    packages = "php8.3-fpm"
+    packages = "php8.3-fpm, php8.3-mbstring"
