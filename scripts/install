@@ -16,7 +16,7 @@ ynh_setup_source --dest_dir="$install_dir"
 
 mv "$install_dir"/src/* "$install_dir"
 
-ynh_secure_remove --file="$install_dir/src"
+ynh_safe_rm "$install_dir/src"
 
 #=================================================
 # SYSTEM CONFIGURATION
