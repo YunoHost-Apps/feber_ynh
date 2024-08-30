@@ -14,7 +14,7 @@ ynh_script_progression "Setting up source files..."
 
 ynh_setup_source --dest_dir="$install_dir"
 
-mv "$install_dir/src/*" "$install_dir"
+mv "$install_dir"/src/* "$install_dir"
 
 ynh_secure_remove --file="$install_dir/src"
 

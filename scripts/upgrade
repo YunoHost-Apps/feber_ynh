@@ -15,7 +15,7 @@ ynh_script_progression "Upgrading source files..."
 ynh_setup_source --dest_dir="$install_dir" --keep="settings.php events.php markers.php" --full_replace
 
 if [ -d "$install_dir/src" ]; then
-    mv "$install_dir/src/*" "$install_dir"
+    mv "$install_dir"/src/* "$install_dir"
     ynh_secure_remove --file="$install_dir/src"
 fi
 
