@@ -7,7 +7,7 @@ name = "Feber"
 description.en = "Simple group calendar"
 description.fr = "Calendrier de groupe simpliste"
 
-version = "1.2.1~ynh1"
+version = "1.2.3~ynh1"
 
 maintainers = []
 
@@ -47,8 +47,8 @@ ram.runtime = "50M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://codeberg.org/simonrepp/feber/archive/1.2.1.tar.gz"
-    sha256 = "acee2ff51b1656f943d3720416cb11b5c14e5cdc9b6be768327a9fb8e8d38958"
+    url = "https://codeberg.org/simonrepp/feber/archive/1.2.3.tar.gz"
+    sha256 = "b9a3b5fce40a82aebc17cf972e26a9c1eccab79bc2a127d476303b7a1602dd78"
 
     autoupdate.strategy = "latest_forgejo_tag"
 
