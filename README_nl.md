@@ -29,7 +29,7 @@ Feber is a simple, self-hostable group calendar.
 - Customize calendar title and start of week (Monday/Sunday)
 
 
-**Geleverde versie:** 1.2.1~ynh1
+**Geleverde versie:** 1.2.4~ynh1
 
 **Demo:** <https://simonrepp.com/feber/demo/>
 
