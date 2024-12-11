@@ -7,7 +7,7 @@ name = "Feber"
 description.en = "Simple group calendar"
 description.fr = "Calendrier de groupe simpliste"
 
-version = "1.2.5~ynh1"
+version = "1.2.5~ynh2"
 
 maintainers = []
 
