@@ -5,7 +5,9 @@ Il NE doit PAS être modifié à la main.
 
 # Feber pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/feber.svg)](https://ci-apps.yunohost.org/ci/apps/feber/) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/feber.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/feber.maintain.svg)
+[![Niveau d’intégration](https://apps.yunohost.org/badge/integration/feber)](https://ci-apps.yunohost.org/ci/apps/feber/)
+![Statut du fonctionnement](https://apps.yunohost.org/badge/state/feber)
+![Statut de maintenance](https://apps.yunohost.org/badge/maintained/feber)
 
 [![Installer Feber avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=feber)
 
@@ -28,7 +30,7 @@ Feber est un calendrier de groupe simple et auto-hébergé.
 - Thème sombre/clair automatique
 - Personnaliser le titre du calendrier et le début de la semaine (lundi/dimanche)
 
-**Version incluse :** 1.2.5~ynh1
+**Version incluse :** 1.2.5~ynh2
 
 **Démo :** <https://simonrepp.com/feber/demo/>
 

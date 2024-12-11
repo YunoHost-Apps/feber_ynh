@@ -5,7 +5,9 @@ Hij mag NIET handmatig aangepast worden.
 
 # Feber voor Yunohost
 
-[![Integratieniveau](https://dash.yunohost.org/integration/feber.svg)](https://ci-apps.yunohost.org/ci/apps/feber/) ![Mate van functioneren](https://ci-apps.yunohost.org/ci/badges/feber.status.svg) ![Onderhoudsstatus](https://ci-apps.yunohost.org/ci/badges/feber.maintain.svg)
+[![Integratieniveau](https://apps.yunohost.org/badge/integration/feber)](https://ci-apps.yunohost.org/ci/apps/feber/)
+![Mate van functioneren](https://apps.yunohost.org/badge/state/feber)
+![Onderhoudsstatus](https://apps.yunohost.org/badge/maintained/feber)
 
 [![Feber met Yunohost installeren](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=feber)
 
@@ -29,7 +31,7 @@ Feber is a simple, self-hostable group calendar.
 - Customize calendar title and start of week (Monday/Sunday)
 
 
-**Geleverde versie:** 1.2.5~ynh1
+**Geleverde versie:** 1.2.5~ynh2
 
 **Demo:** <https://simonrepp.com/feber/demo/>
 
