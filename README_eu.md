@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # Feber YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/feber.svg)](https://ci-apps.yunohost.org/ci/apps/feber/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/feber.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/feber.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/feber)](https://ci-apps.yunohost.org/ci/apps/feber/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/feber)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/feber)
 
 [![Instalatu Feber YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=feber)
 

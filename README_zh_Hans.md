@@ -5,7 +5,9 @@
 
 # YunoHost 上的 Feber
 
-[![集成程度](https://dash.yunohost.org/integration/feber.svg)](https://ci-apps.yunohost.org/ci/apps/feber/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/feber.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/feber.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/feber)](https://ci-apps.yunohost.org/ci/apps/feber/)
+![工作状态](https://apps.yunohost.org/badge/state/feber)
+![维护状态](https://apps.yunohost.org/badge/maintained/feber)
 
 [![使用 YunoHost 安装 Feber](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=feber)
 

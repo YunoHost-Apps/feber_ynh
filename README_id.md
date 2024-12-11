@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Feber untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/feber.svg)](https://ci-apps.yunohost.org/ci/apps/feber/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/feber.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/feber.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/feber)](https://ci-apps.yunohost.org/ci/apps/feber/)
+![Status kerja](https://apps.yunohost.org/badge/state/feber)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/feber)
 
 [![Pasang Feber dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=feber)
 

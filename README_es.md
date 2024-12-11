@@ -5,7 +5,9 @@ No se debe editar a mano.
 
 # Feber para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/feber.svg)](https://ci-apps.yunohost.org/ci/apps/feber/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/feber.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/feber.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/feber)](https://ci-apps.yunohost.org/ci/apps/feber/)
+![Estado funcional](https://apps.yunohost.org/badge/state/feber)
+![Estado En Mantención](https://apps.yunohost.org/badge/maintained/feber)
 
 [![Instalar Feber con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=feber)
 
