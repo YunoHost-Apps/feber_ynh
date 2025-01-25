@@ -30,7 +30,7 @@ Feber est un calendrier de groupe simple et auto-hébergé.
 - Thème sombre/clair automatique
 - Personnaliser le titre du calendrier et le début de la semaine (lundi/dimanche)
 
-**Version incluse :** 1.2.5~ynh2
+**Version incluse :** 1.3.0~ynh2
 
 **Démo :** <https://simonrepp.com/feber/demo/>
 
