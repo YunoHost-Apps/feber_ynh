@@ -49,7 +49,7 @@ ram.runtime = "50M"
 
     [resources.sources.main]
     url = "https://codeberg.org/simonrepp/feber/archive/1.4.2.tar.gz"
-    sha256 = "6ae62ff47a3740f32ac497fb4b62e6058ab628e3006e0aa44bf74c6a6bbcb354"
+    sha256 = "eba3c07393053d134390c595c7859a935e1589a32cf37704ac2718e39cc44639"
 
     autoupdate.strategy = "latest_forgejo_tag"
 
