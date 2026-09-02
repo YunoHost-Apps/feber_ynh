@@ -19,7 +19,7 @@ code = "https://codeberg.org/simonrepp/feber"
 fund = "https://ko-fi.com/simonrepp"
 
 [integration]
-yunohost = ">= 12.1.39"
+yunohost = ">= 12.1.40"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
@@ -62,4 +62,4 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.apt]
-    packages = "php8.4-mbstring, php8.4-intl"
+    packages = "php8.5-mbstring, php8.5-intl"
