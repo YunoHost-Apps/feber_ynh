@@ -7,7 +7,7 @@ name = "Feber"
 description.en = "Simple group calendar"
 description.fr = "Calendrier de groupe simpliste"
 
-version = "1.4.2~ynh1"
+version = "1.4.2~ynh2"
 
 maintainers = [ "OniriCorpe" ]
 
@@ -19,7 +19,7 @@ code = "https://codeberg.org/simonrepp/feber"
 fund = "https://ko-fi.com/simonrepp"
 
 [integration]
-yunohost = ">= 12.1.39"
+yunohost = ">= 12.1.40"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
@@ -50,7 +50,6 @@ ram.runtime = "50M"
     [resources.sources.main]
     url = "https://codeberg.org/simonrepp/feber/archive/1.4.2.tar.gz"
     sha256 = "eba3c07393053d134390c595c7859a935e1589a32cf37704ac2718e39cc44639"
-
     autoupdate.strategy = "latest_forgejo_tag"
 
     [resources.system_user]
@@ -62,4 +61,4 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.apt]
-    packages = "php8.4-mbstring, php8.4-intl"
+    packages = "php8.5-mbstring, php8.5-intl"
